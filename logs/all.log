@@ -1,0 +1,2 @@
+time="2022-04-28T18:42:19+06:00" level=info msg="create roter" func=main.main file="main.go:15"
+time="2022-04-28T18:42:19+06:00" level=info msg="register user handler" func=main.main file="main.go:19"
